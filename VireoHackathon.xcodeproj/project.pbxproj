@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					88499E0D1E8DC19B00EBEAC7 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = SKTKK2QZ74;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SKTKK2QZ74;
 				INFOPLIST_FILE = VireoHackathon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ni.VireoHackathon;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SKTKK2QZ74;
 				INFOPLIST_FILE = VireoHackathon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ni.VireoHackathon;
@@ -301,6 +304,7 @@
 				88499E221E8DC19C00EBEAC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
